@@ -3,3 +3,7 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rdoxygen"]
+	path = rdoxygen
+	url = https://github.com/nevrome/rdoxygen
+	shallow = true
